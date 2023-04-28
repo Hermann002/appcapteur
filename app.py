@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-from dash import Dash, html
 import pandas as pd
 import json
 import plotly
